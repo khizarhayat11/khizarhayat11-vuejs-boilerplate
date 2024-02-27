@@ -1,4 +1,4 @@
-# Vue Test Project
+# VueJs Boilerplate
 
 Welcome to our Vue.js test project! This project serves as a playground for experimenting with Vue.js features, testing out different components, and exploring various Vue ecosystem tools.
 
